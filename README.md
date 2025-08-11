@@ -50,5 +50,3 @@ pip install -r requirements.txt
 
 These notebooks are adapted from Stanford Online course materials.
 They are for **educational use only** and are not original authored work.
-
----

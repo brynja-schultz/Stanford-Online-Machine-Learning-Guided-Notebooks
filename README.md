@@ -34,18 +34,6 @@ While the notebooks were authored by course instructors, I:
 
 This repo serves as a **reference and learning log**, demonstrating structured engagement with high-quality, instructor-guided ML labs.
 
-## Requirements
-
-* Python 3.x
-* Jupyter Notebook
-* Common ML packages: NumPy, Matplotlib, scikit-learn, TensorFlow
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Disclaimer
 
 These notebooks are adapted from Stanford Online course materials.
